@@ -1,0 +1,6 @@
+/build/
+/dist/
+/inputs/
+/outputs/
+*.spec
+export.ipynb
